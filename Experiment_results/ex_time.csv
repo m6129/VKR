@@ -1,4 +1,4 @@
-﻿model;type learning;type forecast;ETTh1;ETTh2;ETTm1;ETTm2;exchange_rate;weather;illness;sum(minute)
+﻿model;learning_type;forecast_type;ETTh1;ETTh2;ETTm1;ETTm2;exchange_rate;weather;illness;sum(minute)
 TimeGPT;zero-shot;univariate;;;;;;;;2
 TimeGPT;few-shot;univariate;1;;;;;;;9
 GTT-Small;zero-shot;univariate;2;2;10;11;1;12;1;39
