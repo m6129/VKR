@@ -1,6 +1,9 @@
 # VKR
 Репозиторий к ВЫПУСКНОЙ КВАЛИФИКАЦИОННОЙ РАБОТЕ по теме: Исследование возможностей базисных моделей в рамках задачи прогнозирования временного ряда
 
+Вычислительные операции выполнялись на ресурсах Kaggle на GPU P100, за исключением моделей Lag-Llama (google Colab), TimeGPT (google Colab и ресурсы владельцев модели).  
+
+
 1.	[Исходный репозиторий наборов данных ETT](https://github.com/zhouhaoyi/ETDataset) 
 2.	[Хранилище наборов данных: weather, illness, exchange_rate](https://drive.google.com/drive/folders/1vE0ONyqPlym2JaaAoEe0XNDR8FS_d322)
 3.	[Официальный репозиторий модели SegRNN](https://github.com/lss-1138/SegRNN)
@@ -15,3 +18,6 @@
 12. [Репозиторий SparseTFT c правками](https://github.com/m6129/SparseTSF)
 12. [Репозиторий UniTime c правками](https://github.com/m6129/UniTime_for_Kaggle)
 12. [Репозиторий GTT c правками](https://github.com/m6129/GTT)
+
+
+
