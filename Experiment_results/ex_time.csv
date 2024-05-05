@@ -18,5 +18,5 @@ PatchTST;train;univariate;23;24;21;23;9;27;10;137
 PatchTST;train;multivariate;29;30;103;83;23;261;15;544
 SegRNN;train;univariate;3;2;7;6;2;12;2;34
 SegRNN;train;multivariate;11;10;49;53;7;3;2;135
-SparseTFT;train;univariate;3;3;6;6;2;4;1;25
-SparseTFT;train;multivariate;3;3;8;8;3;10;1;36
+SparseTSF;train;univariate;3;3;6;6;2;4;1;25
+SparseTSF;train;multivariate;3;3;8;8;3;10;1;36

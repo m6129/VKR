@@ -1,4 +1,4 @@
-﻿horizont;benchmark;metrics;TimeGPT (zero-shot);TimeGPT (few-shot);GTT-Small (zero-shot);GTT-Small (finetune);GTT-Tiny (zero-shot);GTT-Tiny (finetune);UniTime (zero-shot);UniTime (finetune);Lag-Llama (zero-shot);PatchTST;SegRNN;SparseTFT
+﻿horizont;benchmark;metrics;TimeGPT (zero-shot);TimeGPT (few-shot);GTT-Small (zero-shot);GTT-Small (finetune);GTT-Tiny (zero-shot);GTT-Tiny (finetune);UniTime (zero-shot);UniTime (finetune);Lag-Llama (zero-shot);PatchTST;SegRNN;SparseTSF
 24;ETTh1;MAE;0.576;1.798;0.126;0.350;0.138;0.336;0.662;0.136;;0.123;0.122;0.153
 96;ETTh1;MAE;0.894;0.871;0.179;0.384;0.194;0.376;0.656;0.182;;0.179;0.180;0.198
 192;ETTh1;MAE;0.89;0.889;0.196;0.406;0.205;0.404;0.670;0.209;;0.205;0.208;0.222

@@ -1,4 +1,4 @@
-﻿horizont;benchmark;metrics;GTT-Small (zero-shot);GTT-Small (finetune);GTT-Tiny (zero-shot);GTT-Tiny (finetune);UniTime (zero-shot);UniTime (finetune);PatchTST;SegRNN;SparseTFT
+﻿horizont;benchmark;metrics;GTT-Small (zero-shot);GTT-Small (finetune);GTT-Tiny (zero-shot);GTT-Tiny (finetune);UniTime (zero-shot);UniTime (finetune);PatchTST;SegRNN;SparseTSF
 24;ETTh1;MAE;0.344;0.345;0.344;0.336;0.475;0.414;0.372;0.333;0.366
 96;ETTh1;MAE;0.386;0.380;0.391;0.375;0.532;0.424;0.399;0.376;0.385
 192;ETTh1;MAE;0.401;0.403;0.410;0.402;0.580;0.444;0.421;0.400;0.407
