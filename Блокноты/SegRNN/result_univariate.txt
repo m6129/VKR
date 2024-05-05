@@ -1,0 +1,102 @@
+ETTh1_720_24_SegRNN_ETTh1_ftS_sl720_pl24_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.025965413078665733, mae:0.12238623946905136, ms/sample:0.32088603846543645
+
+ETTh1_720_96_SegRNN_ETTh1_ftS_sl720_pl96_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.05299796909093857, mae:0.17992250621318817, ms/sample:0.2932181264168484
+
+ETTh1_720_192_SegRNN_ETTh1_ftS_sl720_pl192_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.06799731403589249, mae:0.20762325823307037, ms/sample:0.29161695478218735
+
+ETTh1_720_336_SegRNN_ETTh1_ftS_sl720_pl336_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.0722350999712944, mae:0.2127748727798462, ms/sample:0.30609029683710787
+
+ETTh1_720_720_SegRNN_ETTh1_ftS_sl720_pl720_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.07729463279247284, mae:0.22396816313266754, ms/sample:0.37561528719116943
+
+ETTh2_720_24_SegRNN_ETTh2_ftS_sl720_pl24_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.06205879524350166, mae:0.1826225370168686, ms/sample:0.27248706690781926
+
+ETTh2_720_96_SegRNN_ETTh2_ftS_sl720_pl96_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.12549327313899994, mae:0.27516454458236694, ms/sample:0.27516346217485904
+
+ETTh2_720_192_SegRNN_ETTh2_ftS_sl720_pl192_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.18167132139205933, mae:0.3369150161743164, ms/sample:0.2762516797719369
+
+ETTh2_720_336_SegRNN_ETTh2_ftS_sl720_pl336_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.1676453948020935, mae:0.3334254026412964, ms/sample:0.30169730570555203
+
+ETTh2_720_720_SegRNN_ETTh2_ftS_sl720_pl720_dm256_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.1877514272928238, mae:0.3502854108810425, ms/sample:0.37888275810216987
+
+ETTm1_720_24_SegRNN_ETTm1_ftS_sl720_pl24_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.009730576537549496, mae:0.07121098786592484, ms/sample:0.15560380166392124
+
+ETTm1_720_96_SegRNN_ETTm1_ftS_sl720_pl96_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.02683769352734089, mae:0.12232094258069992, ms/sample:0.157143824470904
+
+ETTm1_720_192_SegRNN_ETTm1_ftS_sl720_pl192_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.03959503397345543, mae:0.15270663797855377, ms/sample:0.15833832620153865
+
+ETTm1_720_336_SegRNN_ETTm1_ftS_sl720_pl336_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.05220652371644974, mae:0.17614850401878357, ms/sample:0.18021775826738518
+
+ETTm1_720_720_SegRNN_ETTm1_ftS_sl720_pl720_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.07864031940698624, mae:0.21951109170913696, ms/sample:0.20397706071973543
+
+ETTm2_720_24_SegRNN_ETTm2_ftS_sl720_pl24_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.016715355217456818, mae:0.08292534947395325, ms/sample:0.1608775244118328
+
+ETTm2_720_96_SegRNN_ETTm2_ftS_sl720_pl96_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.0596233531832695, mae:0.17638017237186432, ms/sample:0.15893827642862332
+
+ETTm2_720_192_SegRNN_ETTm2_ftS_sl720_pl192_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.08976583927869797, mae:0.22403933107852936, ms/sample:0.16147665885301016
+
+ETTm2_720_336_SegRNN_ETTm2_ftS_sl720_pl336_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.1106996238231659, mae:0.25220537185668945, ms/sample:0.1848653538396543
+
+ETTm2_720_720_SegRNN_ETTm2_ftS_sl720_pl720_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.1604756861925125, mae:0.3098395764827728, ms/sample:0.19861305105433444
+
+exchange_rate_720_24_SegRNN_custom_ftS_sl720_pl24_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.02549137733876705, mae:0.12060239911079407, ms/sample:0.49010689159633325
+
+exchange_rate_720_96_SegRNN_custom_ftS_sl720_pl96_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.10033117234706879, mae:0.2331116795539856, ms/sample:0.5335103610396889
+
+exchange_rate_720_192_SegRNN_custom_ftS_sl720_pl192_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.2085840106010437, mae:0.3495965898036957, ms/sample:0.5456255931480258
+
+exchange_rate_720_336_SegRNN_custom_ftS_sl720_pl336_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.5933479070663452, mae:0.5872637033462524, ms/sample:0.6313384486939096
+
+exchange_rate_720_720_SegRNN_custom_ftS_sl720_pl720_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.843403160572052, mae:0.6935958862304688, ms/sample:0.9780742769552054
+
+weather_720_24_SegRNN_custom_ftS_sl720_pl24_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.0003646388358902186, mae:0.012124021537601948, ms/sample:0.1675025869930321
+
+weather_720_96_SegRNN_custom_ftS_sl720_pl96_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.0009076148271560669, mae:0.021289460361003876, ms/sample:0.15089190905690422
+
+weather_720_192_SegRNN_custom_ftS_sl720_pl192_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.0010635118233039975, mae:0.02329697459936142, ms/sample:0.1513784485615309
+
+weather_720_336_SegRNN_custom_ftS_sl720_pl336_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.001247410080395639, mae:0.025473760440945625, ms/sample:0.1821691781481029
+
+weather_720_720_SegRNN_custom_ftS_sl720_pl720_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.001736750127747655, mae:0.030192162841558456, ms/sample:0.19817347439146332
+
+illness_60_24_SegRNN_custom_ftS_sl60_pl24_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.7597273588180542, mae:0.6169053912162781, ms/sample:3.7262509850894703
+
+illness_60_36_SegRNN_custom_ftS_sl60_pl36_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.7174220085144043, mae:0.5999236106872559, ms/sample:4.004371317127083
+
+illness_60_48_SegRNN_custom_ftS_sl60_pl48_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.76776123046875, mae:0.6552104353904724, ms/sample:4.402676673784648
+
+illness_60_60_SegRNN_custom_ftS_sl60_pl60_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.7667375206947327, mae:0.6942933201789856, ms/sample:5.010866407138198
+
