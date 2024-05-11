@@ -1,0 +1,54 @@
+de_small_60_24_SegRNN_custom_ftS_sl60_pl24_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.11199042201042175, mae:0.217988058924675, ms/sample:4.450859743006089
+
+de_small_60_36_SegRNN_custom_ftS_sl60_pl36_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.2735893726348877, mae:0.3366158604621887, ms/sample:3.94981571390659
+
+de_small_60_48_SegRNN_custom_ftS_sl60_pl48_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.3466322720050812, mae:0.4018807113170624, ms/sample:4.811282027257632
+
+de_small_60_60_SegRNN_custom_ftS_sl60_pl60_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.4047416150569916, mae:0.4469948410987854, ms/sample:4.64421243809942
+
+de_big_720_24_SegRNN_custom_ftS_sl720_pl24_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.10700346529483795, mae:0.20328280329704285, ms/sample:0.25742903364700104
+
+de_big_720_96_SegRNN_custom_ftS_sl720_pl96_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.14295078814029694, mae:0.2542184591293335, ms/sample:0.26657462436634377
+
+de_big_720_192_SegRNN_custom_ftS_sl720_pl192_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.20455732941627502, mae:0.31307554244995117, ms/sample:0.2679963116221539
+
+de_big_720_336_SegRNN_custom_ftS_sl720_pl336_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.22457215189933777, mae:0.3426968455314636, ms/sample:0.3077435697892917
+
+de_big_720_720_SegRNN_custom_ftS_sl720_pl720_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.3132781982421875, mae:0.4147564768791199, ms/sample:0.35540096151893436
+
+de_small_60_24_SegRNN_custom_ftM_sl60_pl24_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.350516676902771, mae:0.37778931856155396, ms/sample:4.018050081589642
+
+de_small_60_36_SegRNN_custom_ftM_sl60_pl36_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.4879608452320099, mae:0.46326109766960144, ms/sample:3.878496870209899
+
+de_small_60_48_SegRNN_custom_ftM_sl60_pl48_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.562224268913269, mae:0.5255327224731445, ms/sample:4.4316543291692865
+
+de_small_60_60_SegRNN_custom_ftM_sl60_pl60_dm512_dr0.0_rtgru_dwpmf_sl12_test_0  
+mse:0.7060381174087524, mae:0.6123949885368347, ms/sample:4.6747211200087815
+
+de_big_720_24_SegRNN_ETTh1_ftM_sl720_pl24_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.068086177110672, mae:0.16311584413051605, ms/sample:0.42684611466367384
+
+de_big_720_96_SegRNN_ETTh1_ftM_sl720_pl96_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.11201915144920349, mae:0.22704602777957916, ms/sample:0.48603600616729026
+
+de_big_720_192_SegRNN_ETTh1_ftM_sl720_pl192_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.16246861219406128, mae:0.2770889401435852, ms/sample:0.4509053916548122
+
+de_big_720_336_SegRNN_ETTh1_ftM_sl720_pl336_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.2199009507894516, mae:0.32812607288360596, ms/sample:0.5076133900400698
+
+de_big_720_720_SegRNN_ETTh1_ftM_sl720_pl720_dm512_dr0.5_rtgru_dwpmf_sl24_test_0  
+mse:0.2838427424430847, mae:0.38241881132125854, ms/sample:0.7680183977288595
+

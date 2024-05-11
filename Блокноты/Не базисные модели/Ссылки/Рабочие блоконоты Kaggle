@@ -1,0 +1,25 @@
+**Ссылки на рабочие блокноты Kaggle**
+
+#### SoTA
+[SparseTFT](https://www.kaggle.com/code/mrantonzaitsev/sparsetft/notebook)  
+[ModernTCN_univariate](https://www.kaggle.com/code/mrantonzaitsev/moderntcn-univariate/notebook)  
+[ModernTCN_multivariate_part1](https://www.kaggle.com/code/mrantonzaitsev/moderntcn-multivariate-part1/notebook)  
+[ModernTCN_multivariate_part2]()  
+[ModernTCN_multivariate_part3]()  
+[SegRNN_univariate](https://www.kaggle.com/code/mrantonzaitsev/segrnn-univariant/notebook)  
+[SegRNN_multivariate](https://www.kaggle.com/code/mrantonzaitsev/segrnn-multivariate/notebook)  
+[PatchTST_univariate](https://www.kaggle.com/code/mrantonzaitsev/patchtst-univariate/notebook)  
+[PatchTST_multivariate](https://www.kaggle.com/code/mrantonzaitsev/patchtst-multivariant/notebook)
+
+
+#### Foundation model
+##### General Time Transformer: [paper](https://arxiv.org/pdf/2402.07570), [fork a repository](https://github.com/m6129/GTT)
+[GTT-Tiny_univariate](https://www.kaggle.com/code/mrantonzaitsev/gtt-tiny-univariate/notebook)  
+[GTT-Tiny_multivariate](https://www.kaggle.com/code/mrantonzaitsev/gtt-tiny-multivariant/notebook)  
+[GTT-Small_univariate](https://www.kaggle.com/mrantonzaitsev/gtt-small-univariate)  
+[GTT-Small_multivariate](https://www.kaggle.com/code/mrantonzaitsev/gtt-small-multivariant/notebook)
+
+
+##### UniTime: [paper](https://arxiv.org/pdf/2310.09751), [fork a repository](https://github.com/m6129/UniTime_for_Kaggle)
+[UniTime_zero-shot](https://www.kaggle.com/code/mrantonzaitsev/unitime-zero-shot/notebook)  
+[UniTime_finetuning](https://www.kaggle.com/code/mrantonzaitsev/unitime-finetuning/notebook)

@@ -1,0 +1,57 @@
+ETTh1_ModernTCN_ETTh1_ftM_sl336_pl24_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.32099664211273193, mae:0.3703252077102661, rse:0.5385494828224182
+
+ETTh1_ModernTCN_ETTh1_ftM_sl336_pl96_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.3686533272266388, mae:0.3944490849971771, rse:0.5781806707382202
+
+ETTh1_ModernTCN_ETTh1_ftM_sl336_pl192_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.4062509834766388, mae:0.4141955077648163, rse:0.6062488555908203
+
+ETTh1_ModernTCN_ETTh1_ftM_sl336_pl336_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.3915974497795105, mae:0.41216611862182617, rse:0.6082329154014587
+
+ETTh1_ModernTCN_ETTh1_ftM_sl336_pl720_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.4497480094432831, mae:0.4612332880496979, rse:0.6441243290901184
+
+ETTh2_ModernTCN_ETTh2_ftM_sl336_pl24_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.1568908989429474, mae:0.2574094533920288, rse:0.318445086479187
+
+ETTh2_ModernTCN_ETTh2_ftM_sl336_pl96_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.26369568705558777, mae:0.3326060473918915, rse:0.4100385904312134
+
+ETTh2_ModernTCN_ETTh2_ftM_sl336_pl192_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.31785818934440613, mae:0.3732992708683014, rse:0.4494263529777527
+
+ETTh2_ModernTCN_ETTh2_ftM_sl336_pl336_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.3140704929828644, mae:0.37618979811668396, rse:0.4551727771759033
+
+ETTh2_ModernTCN_ETTh2_ftM_sl336_pl720_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.39401930570602417, mae:0.4321339428424835, rse:0.5032525658607483
+
+Exchange_ModernTCN_custom_ftM_sl6_pl24_dim64_nb1_lk51_sk5_ffr1_ps1_str1_multiFalse_mergedFalse_Exp_0  
+mse:0.023767633363604546, mae:0.10331877321004868, rse:0.1174267828464508
+
+Exchange_ModernTCN_custom_ftM_sl6_pl96_dim64_nb1_lk51_sk5_ffr1_ps1_str1_multiFalse_mergedFalse_Exp_0  
+mse:0.08087305724620819, mae:0.19742853939533234, rse:0.21659523248672485
+
+Exchange_ModernTCN_custom_ftM_sl6_pl192_dim64_nb1_lk51_sk5_ffr1_ps1_str1_multiFalse_mergedFalse_Exp_0  
+mse:0.1673705130815506, mae:0.289660781621933, rse:0.3163965940475464
+
+Exchange_ModernTCN_custom_ftM_sl6_pl336_dim64_nb1_lk51_sk5_ffr1_ps1_str1_multiFalse_mergedFalse_Exp_0  
+mse:0.3135828375816345, mae:0.40231844782829285, rse:0.4411635100841522
+
+Exchange_ModernTCN_custom_ftM_sl6_pl720_dim64_nb1_lk51_sk5_ffr1_ps1_str1_multiFalse_mergedFalse_Exp_0  
+mse:0.6586983799934387, mae:0.5828270316123962, rse:0.6554415225982666
+
+ILI_ModernTCN_custom_ftM_sl60_pl24_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:1.3481605052947998, mae:0.7180184721946716, rse:0.5603285431861877
+
+ILI_ModernTCN_custom_ftM_sl48_pl36_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:1.4463753700256348, mae:0.8191428184509277, rse:0.5814273953437805
+
+ILI_ModernTCN_custom_ftM_sl60_pl48_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:1.3888219594955444, mae:0.7812625169754028, rse:0.5660552978515625
+
+ILI_ModernTCN_custom_ftM_sl60_pl60_dim64_nb1_lk51_sk5_ffr1_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:1.773125171661377, mae:0.8679682612419128, rse:0.6362892985343933
+

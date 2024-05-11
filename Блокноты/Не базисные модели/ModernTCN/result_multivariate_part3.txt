@@ -1,0 +1,15 @@
+weather_ModernTCN_custom_ftM_sl336_pl24_dim64_nb1_lk51_sk5_ffr8_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.09094180911779404, mae:0.12858393788337708, rse:0.3976018726825714
+
+weather_ModernTCN_custom_ftM_sl336_pl96_dim64_nb1_lk51_sk5_ffr8_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.15009258687496185, mae:0.20375584065914154, rse:0.509993314743042
+
+weather_ModernTCN_custom_ftM_sl336_pl192_dim64_nb1_lk51_sk5_ffr8_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.19543734192848206, mae:0.24673694372177124, rse:0.5815935134887695
+
+weather_ModernTCN_custom_ftM_sl336_pl336_dim64_nb1_lk51_sk5_ffr8_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.23614363372325897, mae:0.28230953216552734, rse:0.6487568616867065
+
+weather_ModernTCN_custom_ftM_sl336_pl720_dim64_nb1_lk51_sk5_ffr8_ps8_str4_multiFalse_mergedFalse_Exp_0  
+mse:0.33238545060157776, mae:0.34250426292419434, rse:0.7605689167976379
+
