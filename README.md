@@ -5,6 +5,6 @@
 
 
 [Ссылки](https://github.com/m6129/VKR/blob/main/Ссылки/Репозитории.md) на репозитории  
-[Ссылки](https://github.com/m6129/VKR/blob/main/Ссылки/Рабочие%20блоконоты%20Kaggle) на блокноты с вычислениями реализованные на Kaggle GPU P100
+[Ссылки](https://github.com/m6129/VKR/blob/main/Ссылки/Репозитории.md) на блокноты с вычислениями реализованные на Kaggle GPU P100
 
 
