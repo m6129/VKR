@@ -15,7 +15,7 @@ UniTime;finetune;univariate;;;;;;;;;331;3521
 UniTime;finetune;multivariate;;;;;;;;;1063;15322
 UniTime_8;zero-shot;univariate;;;;;;;;;;2254
 UniTime_8;finetune;univariate;374;368;1325;1320;211;1282;57;67;473;5477
-Unitime_8;zero-shot;multivariate;;;;;;;;;;2877
+UniTime_8;zero-shot;multivariate;;;;;;;;;;2877
 UniTime_8;finetune;multivariate;1057;1050;4320;4387;632;8172;99;140;1564;21421
 Lag-Llama;zero-shot;univariate;424;422;424;427;426;;31;;;2634
 PatchTST;train;univariate;1369;1466;1246;1364;554;1642;617;347;1231;9836
