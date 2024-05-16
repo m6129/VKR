@@ -1,0 +1,14 @@
+﻿model;type
+GTT-Small (zero-shot);zero-shot
+GTT-Small (finetune);finetune
+GTT-Tiny (zero-shot);zero-shot
+GTT-Tiny (finetune);finetune
+UniTime_8 (zero-shot);zero-shot
+UniTime_8 (finetune);finetune
+UniTime (zero-shot);zero-shot
+UniTime (finetune);finetune
+PatchTST;train
+SegRNN;train
+SparseTSF;train
+ModernTCN;train
+Repeat_Closest;naive

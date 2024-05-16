@@ -26,5 +26,5 @@ SparseTSF;train;univariate;178;180;393;363;124;261;96;68;220;1883
 SparseTSF;train;multivariate;174;177;473;508;196;613;75;61;316;2593
 ModernTCN;train;univariate;441;398;3500;3324;315;1507;83;66;596;10230
 ModernTCN;train;multivariate;1350;1216;17933;15615;407;24657;78;65;1770;63091
-Repeat_Closest;native;univariate;;;;;;;;;;283
-Repeat_Closest;native;multivariate;;;;;;;;;;325
+Repeat_Closest;naive;univariate;;;;;;;;;;283
+Repeat_Closest;naive;multivariate;;;;;;;;;;325
