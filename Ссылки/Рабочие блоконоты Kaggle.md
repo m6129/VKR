@@ -1,15 +1,15 @@
 **Ссылки на рабочие блокноты Kaggle**
 
 #### Naive  
-[Closes Repeat 96](https://www.kaggle.com/code/mrantonzaitsev/repeat-c-96/notebook)
+[Closes Repeat](https://www.kaggle.com/code/mrantonzaitsev/repeat-c-96/notebook)
 
 #### SoTA
 [SparseTFT](https://www.kaggle.com/code/mrantonzaitsev/sparsetft/notebook)  
 [SparseTSF_new_benchmark](https://www.kaggle.com/code/mrantonzaitsev/sparsetsf-new-benchmark/notebook)  
 [ModernTCN_univariate](https://www.kaggle.com/code/mrantonzaitsev/moderntcn-univariate/notebook)  
 [ModernTCN_multivariate_part1](https://www.kaggle.com/code/mrantonzaitsev/moderntcn-multivariate-part1/notebook)  
-[ModernTCN_multivariate_part2]()  in the process of  
-[ModernTCN_multivariate_part3]()in the process of  
+[ModernTCN_multivariate_part2](https://www.kaggle.com/code/mrantonzaitsev/moderntcn-multivariate-part2/notebook)   
+[ModernTCN_multivariate_part3](https://www.kaggle.com/code/mrantonzaitsev/moderntcn-multivariate-part3/notebook)  
 [ModernTCN_new_bencmark](https://www.kaggle.com/code/mrantonzaitsev/moderntcn-new-benchmark/notebook)  
 [SegRNN_univariate](https://www.kaggle.com/code/mrantonzaitsev/segrnn-univariant/notebook)  
 [SegRNN_multivariate](https://www.kaggle.com/code/mrantonzaitsev/segrnn-multivariate/notebook)  
